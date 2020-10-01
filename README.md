@@ -1,2 +1,2 @@
 # catalogo-online-gistore
-Website de uma catálogo de vestuário feminino
+Website de um catálogo de vestuário feminino
